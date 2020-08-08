@@ -1,0 +1,60 @@
+{
+    "git.autofetch": true,
+    "git.enableSmartCommit": true,
+    "liveServer.settings.donotShowInfoMsg": true,
+    "editor.formatOnSave": true,
+    "[javascript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode",
+        "editor.fontFamily": "'Ubuntu Mono', monospace",
+        "editor.fontLigatures": true,
+        "editor.formatOnSave": true
+    },
+    "[javascriptreact]": {
+        "editor.formatOnSave": true,
+        "editor.defaultFormatter": "esbenp.prettier-vscode",
+        "editor.fontFamily": "'Ubuntu Mono', monospace",
+        "editor.fontLigatures": true
+    },
+    "[html]": {
+        "editor.formatOnSave": true,
+        "editor.defaultFormatter": "esbenp.prettier-vscode",
+        "editor.fontFamily": "'Ubuntu Mono', monospace",
+        "editor.fontLigatures": true
+    },
+    "[css]": {
+        "editor.formatOnSave": true,
+        "editor.defaultFormatter": "esbenp.prettier-vscode",
+        "editor.fontFamily": "'Ubuntu Mono', monospace",
+        "editor.fontLigatures": true
+    },
+    "sync.gist": "186537d5c4d4edbf024d402d38088248",
+    "workbench.iconTheme": "Monokai Classic Icons",
+    "workbench.colorTheme": "Monokai Classic",
+    // tell the ESLint plugin to run on save
+    "editor.codeActionsOnSave": {
+        "source.fixAll": true
+    },
+    // "prettier.disableLanguages": ["javascript", "javascriptreact"],
+    "cSpell.userWords": [
+        "Airbender",
+        "Gobeille",
+        "Guil",
+        "Iroh",
+        "Minwax",
+        "Treehouse's",
+        "lauan",
+        "linebreak",
+        "onstatechange",
+        "onupdatefound",
+        "precached",
+        "restapi",
+        "shopify",
+        "signin",
+        "signout",
+        "signup",
+        "wesbos"
+    ],
+    "editor.renderControlCharacters": true,
+    "terminal.integrated.shell.windows": "C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\powershell.exe",
+    "javascript.updateImportsOnFileMove.enabled": "always"
+}
